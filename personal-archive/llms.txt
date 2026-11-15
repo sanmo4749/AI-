@@ -1,0 +1,16 @@
+# 曾建华个人学术档案
+
+公开档案入口：README.md
+
+AI 阅读指引：AI-INDEX.md
+档案维护规则：AGENTS.md
+学术身份：profile.md
+研究议题：research-agenda.md
+概念与理论主张：concepts.md
+长期项目：projects.md
+代表成果：works.md
+人机协作偏好：collaboration-principles.md
+学术脉络时间线：timeline.md
+来源与证据状态：source-register.md
+
+本仓库是基于有限可检索材料编制的精选档案，不是近四年完整聊天记录。请核对 source-register.md，并在无法访问仓库时明确说明。
