@@ -12,5 +12,6 @@ AI 阅读指引：AI-INDEX.md
 人机协作偏好：collaboration-principles.md
 学术脉络时间线：timeline.md
 来源与证据状态：source-register.md
+撰述技能（非档案正文）：../skills/明清名学史撰述体例/SKILL.md
 
 本仓库是基于有限可检索材料编制的精选档案，不是近四年完整聊天记录。请核对 source-register.md，并在无法访问仓库时明确说明。
