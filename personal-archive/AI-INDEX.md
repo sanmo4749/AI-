@@ -33,6 +33,7 @@
 | 人机协同、AI 学术范式 | `collaboration-principles.md`、`works.md` |
 | 子云智网 | `projects.md` |
 | 学术写作偏好 | `collaboration-principles.md` |
+| 明清名学史撰述体例 | `../skills/明清名学史撰述体例/SKILL.md`（撰述技能，非档案正文） |
 
 ## 机器可读性
 

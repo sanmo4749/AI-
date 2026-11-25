@@ -16,6 +16,7 @@
 - [人机协作和研究规范](collaboration-principles.md)
 - [学术脉络时间线](timeline.md)
 - [来源、证据等级与待核实事项](source-register.md)
+- [明清名学史撰述体例](../skills/明清名学史撰述体例/SKILL.md)（撰述技能，非档案正文）
 
 ## 档案范围
 
